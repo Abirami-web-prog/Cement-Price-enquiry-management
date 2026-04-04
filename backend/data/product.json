@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "Ramco",
+    "price": 420,
+    "description": "53 Grade OPC Cement",
+    "image": "https://share.google/dqK3YKELB3srTKOJF",
+    "type":"Cement"
+  },
+  {
+    "brand": "Ultratech",
+    "price": 450,
+    "description": "Premium Cement for Strong Construction",
+    "image": "",
+  "type":"Cement"},
+  {
+    "brand": "Maha",
+    "price": 430,
+    "description": "53 Grade OPC Cement",
+    "image": "https://www.mahacement.com/wp-content/uploads/2021/06/maha-opc-53.png",
+    "type":"Cement"
+  },
+  {
+    "brand": "Priya",
+    "price": 400,
+    "description": "Ordinary Portland Cement",
+    "image": "https://www.priyacement.com/images/products/priya-cement-bag.png",
+    "type":"Cement"
+  },
+
+  {
+    "brand":"Suryadev Steel",
+    "price":60500,
+    "description":"TMT Bars 16mm",
+    "type":"steel"
+  },
+  
+  {
+    "brand":"Tata Steel",
+    "price":60200,
+    "description":"TMT Bars 12mm",
+    "type":"steel"
+  },
+  
+  {
+    "brand":"Jsw Steel",
+    "price":60500,
+    "description":"TMT Bars 16mm",
+    "type":"steel"
+  },
+  
+  {
+    "brand":"Sail Steel",
+    "price":59000,
+    "description":"TMT Bars 10mm",
+    "type":"steel"
+  }
+]
